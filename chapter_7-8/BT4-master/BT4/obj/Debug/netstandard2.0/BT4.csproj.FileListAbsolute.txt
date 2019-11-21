@@ -1,0 +1,13 @@
+C:\Users\hieupc\source\repos\BT4\BT4\bin\Debug\netstandard2.0\BT4.deps.json
+C:\Users\hieupc\source\repos\BT4\BT4\bin\Debug\netstandard2.0\BT4.dll
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\BT4.csprojAssemblyReference.cache
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\BT4.csproj.CoreCompileInputs.cache
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\BT4.AssemblyInfoInputs.cache
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\BT4.AssemblyInfo.cs
+C:\Users\hieupc\source\repos\BT4\BT4\bin\Debug\netstandard2.0\BT4.pdb
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\Views\ListViewLoaihoa.xaml.g.cs
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\BT4.dll
+C:\Users\hieupc\source\repos\BT4\BT4\obj\Debug\netstandard2.0\BT4.pdb
